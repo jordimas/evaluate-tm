@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
 # Copyright (c) 2017 Jordi Mas i Hernandez <jmas@softcatala.org>
@@ -18,24 +19,24 @@
 # Boston, MA 02111-1307, USA.
 
 import xml.etree.ElementTree as ET
-import polib
-
 
 class ConvertTmx():
 
-    def __init__(self, input_file, output_file):
+    def __init__(self, input_file, en_filename, ca_filename):
         self.input_file = input_file
-        self.output_file = output_file
+        self.en_filename = en_filename
+        self.ca_filename = ca_filename
 
     def convert(self):
-        pofile = polib.POFile()
-
-
         tree = ET.parse(self.input_file)
         root = tree.getroot()
         sources = set()
 
         entries = 0
+
+        tf_en = open(self.en_filename, 'w')
+        tf_ca = open(self.ca_filename, 'w')
+
         for tu_entry in root.iter('tu'):
 
             entry_id = None
@@ -72,12 +73,17 @@ class ConvertTmx():
                 msgctxt = None
                 sources.add(source)
 
-            entry = polib.POEntry(msgid=source, msgstr=translation,
-                                  msgctxt=msgctxt, tcomment=entry_id)
-            pofile.append(entry)
+            tf_en.write(source + "\n")
+            tf_ca.write(translation + "\n")
+
             entries = entries + 1
 
-        pofile.save(self.output_file)
+            if entries >= 2000:
+                break
+
+        tf_en.close()
+        tf_ca.close()
+        print("Wrote {0} strings".format(entries))
 
 def main():
 
@@ -85,10 +91,11 @@ def main():
     print("and cleans the strings")
 
     txt_file = 'raw/GlobalVoices-ca-en.tmx'
-    txt_en_file = 'input/gnome-user-manual-en.txt'
-    txt_ca_file = 'input/gnome-user-manual-ca.txt'
+    txt_en_file = 'input/globalvoices-en.txt'
+    txt_ca_file = 'input/globalvoices-ca.txt'
 
+    convert = ConvertTmx(txt_file, txt_en_file, txt_ca_file)
+    convert.convert()
 
-    ConvertTmx
-
-
+if __name__ == "__main__":
+    main()
