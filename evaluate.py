@@ -40,8 +40,8 @@ def show_bleu(reference_file, hypotesis_file):
     with open(reference_file, 'r') as tf_ref, open(hypotesis_file, 'r') as tf_hyp:
         lines_ref = tf_ref.read().splitlines()
         lines_hyp = tf_hyp.read().splitlines()
-        lines_ref = lines_ref[0:470]
-        lines_hyp = lines_hyp[0:470]
+#        lines_ref = lines_ref[0:500]
+#        lines_hyp = lines_hyp[0:500]
 
         if len(lines_ref) != len(lines_hyp):
             print("Different number of lines in files")
@@ -94,12 +94,11 @@ def _test():
     print(score * 100)
     exit(1)
 
+def _evalutate_gnome_user():
+    print("--- Gnome user ---")
 
-def main():
-
-#    _test()
-    print("Apertium (local)")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-apertium-local-ca.txt')
+#    print("Apertium (local)")
+#    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-apertium-local-ca.txt')
 
     print("Apertium (Softcatalà)")
     show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-apertium-ca.txt')
@@ -113,6 +112,21 @@ def main():
     print("OpenNMT")
     show_bleu('input/gnome-user-manual-ca.txt', '/home/jordi/sc/OpenNMT/nmt-softcatala/ApplyToPoFile/output.txt')
 
+def _evalutate_global_voices():
+    print("--- global voices ---")
+    print("Apertium (Softcatalà)")
+    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-apertium-ca.txt')
+
+    print("Yandex")
+    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-yandex-ca.txt')
+
+    print("OpenNMT")
+    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-opennmt-ca.txt')
+
+    
+def main():
+    _evalutate_gnome_user()
+    _evalutate_global_voices()
 
 if __name__ == "__main__":
     main()
