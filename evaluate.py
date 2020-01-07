@@ -22,19 +22,6 @@ import nltk
 import warnings
 warnings.filterwarnings("ignore")
 
-def show_bleu2(reference_file, hypotesis_file):
-    with open(reference_file, 'r') as tf_ref, open(hypotesis_file, 'r') as tf_hyp:
-        strings_ref = tf_ref.readlines()
-        strings_hyp = tf_hyp.readlines()
-
-        if len(strings_ref) != len(strings_hyp):
-            print("Different number of lines in files")
-            return
-
-        bleu_score = nltk.translate.bleu_score.corpus_bleu(strings_ref, strings_hyp)
-        print("Bleu score:" + str(bleu_score))
-
-
 def show_bleu(reference_file, hypotesis_file):
     cumulative_bleu_score = 0
     with open(reference_file, 'r') as tf_ref, open(hypotesis_file, 'r') as tf_hyp:
@@ -70,63 +57,31 @@ def show_bleu(reference_file, hypotesis_file):
     bleu_score = nltk.translate.bleu_score.corpus_bleu(strings_ref, strings_hyp)
     print("** Bleu score (corpus): " + str(bleu_score))
 
-def _test():
-#    reference = [['this', 'is', 'a', 'test', 'test2']]
-#    candidate = ['thisx', 'isx', 'a',  'test2']
-    reference = list('Creative Commons'.split())
-    candidate = 'Creative Commons'.split()
-
-    reference = ['this is a test test2'.split()]
-    candidate = 'this is a test test2'.split()
-    reference2 = [['this', 'is', 'a', 'test', 'test2']]
-    candidate2 = ['thisx', 'is', 'a',  'test2']
-
-
-#    for i in range(0, len(reference)):
-#        print("Ref:" + reference[i])
-#        print("Can:" + candidate[i])
-
-    print("Reference:" + str(reference))
-    print("Candidate:" + str(candidate))
-
-    score = nltk.translate.bleu_score.sentence_bleu(reference, candidate, weights=(1, 0, 0, 0))
-    print(score)
-    print(score * 100)
-    exit(1)
-
-def _evalutate_gnome_user():
-    print("--- Gnome user ---")
-
-#    print("Apertium (local)")
-#    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-apertium-local-ca.txt')
-
-    print("Apertium (Softcatalà)")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-apertium-ca.txt')
-
-    print("Yandex")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-yandex-ca.txt')
-
-    print("Google")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-google-ca.txt')
-
-    print("OpenNMT")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-opennmt-ca.txt')
-
-def _evalutate_global_voices():
-    print("--- global voices ---")
-    print("Apertium (Softcatalà)")
-    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-apertium-ca.txt')
-
-    print("Yandex")
-    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-yandex-ca.txt')
-
-    print("OpenNMT")
-    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-opennmt-ca.txt')
-
     
 def main():
-    _evalutate_gnome_user()
-    _evalutate_global_voices()
+    datasets = \
+        [\
+            ['GNOME Manual', 'input/gnome-user-manual-ca.txt','translated/gnome-user-manual-apertium-ca.txt',\
+                 'translated/gnome-user-manual-yandex-ca.txt', 'translated/gnome-user-manual-google-ca.txt',\
+                 'translated/gnome-user-manual-opennmt-ca.txt' ],\
+            ['Global Voices', 'input/globalvoices-ca.txt','translated/globalvoices-apertium-ca.txt', 
+                 'translated/globalvoices-yandex-ca.txt','translated/globalvoices-google-ca.txt', \
+                 'translated/globalvoices-opennmt-ca.txt'],\
+        ]
+
+    for ds in datasets:
+        print(ds[0])
+        print("*** Apertium (Softcatalà)")
+        show_bleu(ds[1], ds[2])
+
+        print("Yandex)")
+        show_bleu(ds[1], ds[3])
+
+        print("Google")
+        show_bleu(ds[1], ds[4])
+
+        print("OpenNMT")
+        show_bleu(ds[1], ds[5])
 
 if __name__ == "__main__":
     main()
