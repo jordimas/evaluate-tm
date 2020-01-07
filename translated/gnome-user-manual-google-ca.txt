@@ -2583,3 +2583,701 @@ Canvieu a un idioma diferent per a la interfície d&#39;usuari i el text d&#39;a
 Canvieu quina llengua utilitzeu
 Podeu utilitzar l&#39;escriptori i les vostres aplicacions en desenes d&#39;idiomes, sempre que tingueu instal·lats els paquets d&#39;idiomes adequats al vostre ordinador.
 Feu clic a Idioma.
+Seleccioneu la vostra regió i idioma desitjat. Si la vostra regió i idioma no figuren a la llista, feu clic a la part inferior de la llista per seleccionar-ne totes les regions i els idiomes disponibles.
+Algunes traduccions poden estar incompletes i és possible que algunes aplicacions no admetin el vostre idioma. Tot text no traduït apareixerà en l’idioma en què es desenvolupà el programari originalment, normalment anglès americà.
+Hi ha algunes carpetes especials a la vostra carpeta de casa on les aplicacions poden emmagatzemar coses com música, imatges i documents. Aquestes carpetes utilitzen noms estàndards segons el vostre idioma. Quan inicieu la sessió de nou, se us demanarà si voleu canviar el nom d&#39;aquestes carpetes als noms estàndards del vostre idioma seleccionat. Si voleu utilitzar el nou idioma tot el temps, heu d’actualitzar els noms de la carpeta.
+Canvieu quant espereu abans de bloquejar la pantalla a la configuració de privadesa.
+La pantalla es bloqueja massa ràpidament
+Si deixeu l’ordinador durant uns minuts, la pantalla es bloquejarà automàticament de manera que haureu d’introduir la vostra contrasenya per tornar-la a utilitzar. Això es fa per motius de seguretat (de manera que ningú pot confondre’s amb el vostre treball si deixeu l’ordinador sense vigilància), però pot resultar molest si la pantalla es bloqueja massa ràpidament.
+Esperar un període més llarg abans que la pantalla es bloquegi automàticament:
+Feu clic a Privadesa a la barra lateral per obrir el tauler.
+Premeu l&#39;opció Bloquejar pantalla.
+Si el bloqueig de pantalla automàtic està activat, podeu canviar el valor a la pantalla de bloqueig després de la llista desplegable en blanc.
+Si mai no voleu que la pantalla es bloquegi automàticament, activeu l’interruptor de bloqueig de pantalla automàtica.
+Compartir escritori, compartir fitxers per correu electrònic, compartir contingut ...
+Compartir
+2014-2015
+Permet que es puguin fitxers al vostre ordinador mitjançant Bluetooth.
+Control compartit mitjançant Bluetooth
+Podeu activar la compartició de Bluetooth per rebre fitxers mitjançant Bluetooth a la carpeta Descàrregues
+Permet que es comparteixin els fitxers a la carpeta de descàrregues
+Assegureu-vos que el Bluetooth està activat.
+Els dispositius compatibles amb Bluetooth poden enviar fitxers a la carpeta de descàrregues només quan el panell Bluetooth està obert.
+Permet que altres persones visualitzin i interactuïn amb l&#39;escriptori mitjançant VNC.
+Compartiu l&#39;escriptori
+Podeu deixar que altres persones visualitzin i controlin l&#39;escriptori des d&#39;un altre equip amb una aplicació de visualització d&#39;escriptori. Configureu la compartició de pantalla perquè els altres puguin accedir a l&#39;escriptori i configurar les preferències de seguretat.
+Heu de tenir instal·lat el paquet Vino per compartir pantalla.
+Instal·leu Vino
+Feu clic a Compartir a la barra lateral per obrir el tauler.
+Si el commutador Sharing situat a la part superior dreta de la finestra està activat, desactiveu-lo.
+Si el text que apareix a sota del nom de l&#39;ordinador permet editar-lo, podeu canviar el nom que apareix a la xarxa.
+Seleccioneu Compartir pantalla.
+Per permetre que altres persones visualitzin l&#39;escriptori, activeu el commutador de Compartir pantalla. Això vol dir que altres persones podran intentar connectar-se a l’ordinador i veure què hi ha a la pantalla.
+Perquè altres persones puguin interactuar amb l&#39;escriptori, assegureu-vos que estigui marcada la funció Permetre les connexions per controlar la pantalla. Això pot permetre a l&#39;altra persona moure el ratolí, executar aplicacions i navegar per fitxers al vostre equip, segons la configuració de seguretat que utilitzeu actualment.
+Seguretat
+És important que tingueu en compte tot el que significa cada opció de seguretat abans de canviar-la.
+Les connexions noves han de sol·licitar accés
+Si voleu poder triar si permetre que algú accedeixi a l&#39;escriptori, activeu les noves connexions que haureu de sol·licitar l&#39;accés. Si desactiveu aquesta opció, no us demanarà si voleu permetre que algú es connecti al vostre ordinador.
+Aquesta opció està activada de manera predeterminada.
+Requereix una contrasenya
+Per requerir que altres persones utilitzin una contrasenya quan es connecten a l&#39;escriptori, activeu Requereix una contrasenya. Si no utilitzeu aquesta opció, qualsevol pot intentar visualitzar l&#39;escriptori.
+Aquesta opció està desactivada de manera predeterminada, però hauríeu d’habilitar-la i definir una contrasenya segura.
+Xarxes
+La secció Xarxes enumera les xarxes a les quals estàs connectat. Utilitzeu el commutador que hi ha al costat de cadascun per triar on es pot compartir l&#39;escriptori.
+Deixeu de compartir l&#39;escriptori
+Per desconnectar algú que estigui veient l&#39;escriptori:
+L&#39;ús compartit de la pantalla es mostrarà actiu. Feu clic a sobre
+Commuta el commutador a la part superior a desactivada.
+Controleu com apareixerà l’ordinador a altres ordinadors o dispositius.
+Definiu el nom de visualització del vostre equip
+Podeu canviar el nom que utilitza l’ordinador per mostrar-se a altres ordinadors o dispositius, a la xarxa o a través de Bluetooth.
+Canvieu el nom de visualització del vostre equip:
+Obriu la visió general de les activitats i comenceu a escriure Compartir.
+Feu clic a Compartir per obrir el tauler.
+Editeu el text que apareix a sota del nom de l’ordinador per canviar el nom que el vostre ordinador mostra a la xarxa.
+Compartiu mitjans de comunicació a la vostra xarxa local mitjançant UPnP.
+Comparteix la teva música, fotos i vídeos
+Podeu navegar, cercar i reproduir suports al vostre ordinador mitjançant un dispositiu UPnP o DLNA, com ara un telèfon, TV o consola de jocs. Configura la compartició de suports per permetre que aquests dispositius accedeixin a les carpetes que contenen la teva música, fotografies i vídeos.
+Heu de tenir instal·lat el paquet Rygel perquè comparteixi multimèdia perquè sigui visible.
+Instal·leu Rygel
+Si el commutador Sharing situat a la part superior dreta de la finestra està activat, desactiveu-lo.
+Seleccioneu Compartició de suports.
+Activa el commutador de compartició de suports.
+De manera predeterminada, es comparteixen música, imatges i vídeos. Per suprimir-ne un, feu clic al × situat al costat del nom de la carpeta.
+Per afegir una altra carpeta, feu clic a + per obrir la finestra Trieu una carpeta. Desplaceu-vos a la carpeta que vulgueu i feu clic a Obrir.
+Feu clic a ×. Ara podreu navegar o reproduir suports a les carpetes que heu seleccionat mitjançant el dispositiu extern.
+La secció Xarxes enumera les xarxes a les quals estàs connectat. Utilitzeu el commutador que hi ha al costat de cadascun per triar on es poden compartir els suports.
+Permet que altres persones accedeixin als fitxers de la vostra carpeta pública.
+Compartiu els vostres fitxers personals
+Podeu permetre l&#39;accés a la carpeta pública de la carpeta d&#39;inici des d&#39;un altre equip de la xarxa. Configura la compartició de fitxers personals per permetre que altres persones accedeixin al contingut de la carpeta.
+Heu de tenir instal·lat el paquet gnome-user-share per compartir fitxers personals perquè sigui visible.
+Instal·leu gnome-user-share
+Seleccioneu Compartició d&#39;arxius personals.
+Activa el commutador de compartir fitxers personals. Això vol dir que altres persones de la vostra xarxa actual podran intentar connectar-se a l’ordinador i accedir als fitxers de la vostra carpeta pública.
+Es mostra un URI mitjançant el qual es pot accedir a la vostra carpeta pública des d’altres equips de la xarxa.
+Requereix contrasenya
+Per requerir que altres persones utilitzin una contrasenya quan accedeixin a la vostra carpeta pública, activeu la secció Exigir contrasenya. Si no utilitzeu aquesta opció, qualsevol pot intentar veure la vostra carpeta pública.
+La secció Xarxes enumera les xarxes a les quals estàs connectat. Utilitzeu el commutador que hi ha al costat de cadascun per triar on es poden compartir els vostres fitxers personals.
+Aruna Sankaranarayanan
+Utilitzeu Tweaks per iniciar les aplicacions automàticament en iniciar la sessió.
+Feu que les aplicacions s’iniciïn automàticament per iniciar la sessió
+Quan inicieu la sessió, l’ordinador inicia automàticament algunes aplicacions i les executa en segon pla. Generalment són programes importants que ajuden a la sessió d&#39;escriptori a funcionar sense problemes.
+Podeu utilitzar l’aplicació Tweaks per afegir altres aplicacions que utilitzeu amb freqüència, com ara navegadors web o editors, a la llista de programes que s’inicien automàticament a l’inici de sessió.
+Per iniciar una aplicació automàticament en iniciar la sessió:
+Feu clic a la pestanya Inici de les aplicacions.
+Feu clic al botó + per obtenir una llista de les aplicacions disponibles.
+Feu clic a Afegeix per afegir una aplicació que trieu a la llista.
+Podeu eliminar una aplicació de la llista fent clic al botó Elimina al costat de l&#39;aplicació.
+Afegiu (o elimineu) les icones de programa que s&#39;utilitzen amb freqüència al tauler.
+Feu una fixació a les aplicacions preferides
+Per afegir una aplicació al guix per accedir fàcilment:
+Obriu la vista general d’activitats fent clic a Activitats a la part superior esquerra de la pantalla
+Feu clic al menú Aplicacions a la part superior esquerra de la pantalla i seleccioneu l’element Vista general de les activitats del menú.
+Feu clic al botó de quadrícula del traç i cerqueu l&#39;aplicació que vulgueu afegir.
+Feu clic amb el botó dret a la icona de l&#39;aplicació i seleccioneu Afegeix a preferits.
+També podeu fer clic i arrossegar la icona al guió.
+Per eliminar una icona de l&#39;aplicació del traç, feu clic amb el botó dret a la icona de l&#39;aplicació i seleccioneu Elimina dels Preferits.
+Les aplicacions preferides també apareixen a la secció Preferits del menú Aplicacions.
+Inicieu aplicacions a la visió general d’activitats.
+Iniciar aplicacions
+Desplaceu el punter del ratolí a la cantonada d&#39;activitats de la part superior esquerra de la pantalla per mostrar la visió general de les activitats. Aquí és on podeu trobar totes les vostres aplicacions. També podeu obrir la visió general prement la tecla Super.
+Podeu iniciar les aplicacions des del menú Aplicacions a la part superior esquerra de la pantalla o bé podeu utilitzar la visió general de les activitats prement la tecla Super.
+Hi ha diverses maneres d’obrir una aplicació un cop que tingueu la visió general d’activitats:
+Comenceu a escriure el nom d&#39;una aplicació: la cerca comença a l&#39;instant. (Si això no passa, feu clic a la barra de cerca a la part superior de la pantalla i comenceu a escriure.) Si no coneixeu el nom exacte d&#39;una aplicació, proveu d&#39;escriure un terme relacionat. Feu clic a la icona de l&#39;aplicació per iniciar-la.
+Algunes aplicacions tenen icones al guionet, la franja vertical de les icones a la part esquerra de la vista general de les activitats. Feu clic a un d’aquests per iniciar l’aplicació corresponent.
+Si teniu aplicacions que utilitzeu amb molta freqüència, podeu afegir-les al guionisme.
+Feu clic al botó de quadrícula que hi ha a la part inferior del traç. Veureu les aplicacions més utilitzades si la visualització freqüent està habilitada. Si voleu executar una nova aplicació, premeu el botó Totes a la part inferior per veure totes les aplicacions. Premeu l&#39;aplicació per iniciar-la.
+Podeu llançar una aplicació en un espai de treball independent arrossegant la icona del guionet i deixant-la caure en un dels espais de treball de la part dreta de la pantalla. L’aplicació s’obrirà a l’espai de treball escollit.
+Podeu llançar una aplicació en un nou espai de treball arrossegant la seva icona a l&#39;espai de treball buit que hi ha a la part inferior del commutador d&#39;espai de treball o a la petita bretxa que hi ha entre dos espais de treball.
+Executar ràpidament una ordre
+Una altra forma de llançar una aplicació és prémer AltF2, introduir el seu nom de comanda i, a continuació, prémer la tecla Enter.
+Per exemple, per llançar Rhythmbox, premeu AltF2 i escriviu &#39;rhythmbox&#39; (sense cometes). El nom de l&#39;aplicació és l&#39;ordre per llançar el programa.
+Utilitzeu les tecles de fletxa per accedir ràpidament a ordres executades anteriorment.
+Alexandre Franke
+David Faour
+Obteniu més informació sobre com deixar el vostre compte d’usuari, desconnectant la sessió, canviant usuaris, etc.
+Tanqueu la sessió, apagueu o canvieu els usuaris
+Quan hagi acabat d’utilitzar l’ordinador, el pots desactivar, suspendre (per estalviar energia) o deixar-lo engegat i tancar la sessió.
+Tanqueu la sessió o canvieu els usuaris
+Perquè altres usuaris utilitzin l’ordinador, podeu iniciar la sessió o deixar-vos iniciar sessió i només canviar els usuaris. Si canvieu usuaris, totes les vostres aplicacions continuaran funcionant i tot serà allà on l’heu deixat quan inicieu la sessió de nou.
+Per tancar la sessió o canviar d’usuari, feu clic al menú del sistema situat a la part dreta de la barra superior, feu clic al vostre nom i, a continuació, trieu l’opció correcta.
+Les entrades d&#39;Usuari de sortida i de connexió només apareixen al menú si teniu més d&#39;un compte d&#39;usuari al vostre sistema.
+L’entrada Switch User només apareix al menú si teniu més d’un compte d’usuari al vostre sistema.
+Bloquejar la pantalla
+Si abandoneu l’ordinador per poc temps, heu de bloquejar la pantalla per evitar que altres persones accedeixin als vostres fitxers o s’executin aplicacions. Quan torneu, aixequeu la cortina de la pantalla de bloqueig i introduïu la contrasenya per tornar a iniciar la sessió. Si no bloquegeu la pantalla, es bloquejarà automàticament al cap d’un cert temps.
+Per bloquejar la pantalla, feu clic al menú del sistema situat a la part dreta de la barra superior i premeu el botó de bloqueig de la pantalla al final del menú.
+Quan la pantalla està bloquejada, altres usuaris poden iniciar sessió als seus propis comptes fent clic a Iniciar sessió com a altre usuari a la pantalla de contrasenya. Podeu tornar a l&#39;escriptori quan hagin finalitzat.
+Suspendre
+Per estalviar energia, suspendre l’ordinador quan no l’utilitzeu. Si utilitzeu un ordinador portàtil, de manera predeterminada, el GNOME suspèn l’ordinador automàticament quan tanqueu la tapa. D’aquesta manera, s’estalvia l’estat a la memòria del seu ordinador i s’apeda a la majoria de les funcions de l’ordinador. Es continua utilitzant una quantitat molt petita de potència durant la suspensió.
+Per suspendre l’ordinador manualment, feu clic al menú del sistema situat a la part dreta de la barra superior. Des d&#39;allà, podeu mantenir premuda la tecla Alt i fer clic al botó d&#39;apagar, o simplement fer clic llarg al botó d&#39;apagar.
+Apagueu o reinicieu
+Si voleu apagar el vostre ordinador completament, o bé feu un reinici complet, feu clic al menú del sistema situat a la part dreta de la barra superior i premeu el botó d&#39;apagar al final del menú. S&#39;obrirà un diàleg que us ofereix les opcions per reiniciar o apagar.
+Si hi ha altres usuaris que inicien la sessió, és possible que no pugueu desactivar ni reiniciar l&#39;ordinador perquè acabarà les sessions. Si sou un usuari administratiu, podeu demanar-vos que la vostra contrasenya s’apague.
+És possible que vulgueu apagar l’ordinador si voleu moure’l i no teniu una bateria, si la bateria és baixa o no es carrega bé. Un ordinador apagat també utilitza menys energia que un suspès.
+Una visió general de l&#39;escriptori, la barra superior i la visió general de les activitats.
+Visió general de GNOME
+El GNOME 3 ofereix una interfície d&#39;usuari completament reimaginada dissenyada per evitar el vostre camí, minimitzar les distraccions i ajudar-vos a fer les coses. Quan inicieu la sessió per primera vegada, veureu un escriptori buit i la barra superior.
+extern ref = &#39;figures / shell-top-bar.png&#39; md5 = &#39;55f7ae9983112f7b1052e10f21ac84c3&#39;
+Barra superior del GNOME Shell
+ref extern &#39;&#39; figures / shell-top-bar-classic.png &#39;md5 =&#39; b102db16e8fb7c87cb4e718422359ba4 &#39;
+La barra superior proporciona accés a les finestres i aplicacions, al calendari i a les cites i a les propietats del sistema com el so, la xarxa i el poder. Al menú del sistema de la barra superior, podeu canviar el volum o la brillantor de la pantalla, editar els detalls de la connexió Wi-Fi, comprovar l&#39;estat de la bateria, tancar la sessió o canviar els usuaris i apagar l&#39;ordinador.
+Visió general de les activitats
+ref extern = &#39;figures / shell-activities.png&#39; md5 = &#39;f21d5d62e41f6823325a144cf82ca1f6&#39;
+Botó Activitats
+ref extern = &#39;figures / shell-activities-classic.png&#39; md5 = &#39;3e44ebb1a8da23348a1727c60d65d013&#39;
+Per accedir a les finestres i aplicacions, feu clic al botó Activitats, o simplement moveu el punter del ratolí a la cantonada calenta superior esquerra. També podeu prémer la tecla Super del teclat. Podeu veure les finestres i aplicacions a la visió general. També podeu començar a escriure per cercar les vostres aplicacions, fitxers, carpetes i al web.
+Per accedir a les finestres i aplicacions, feu clic al menú Aplicacions situat a la part superior esquerra de la pantalla i seleccioneu l&#39;ítem Descripció general de les activitats. També podeu prémer la tecla Súper per veure les finestres i aplicacions a la vista general de les activitats. Simplement comença a escriure per cercar les aplicacions, fitxers i carpetes.
+extern ref = &#39;figures / shell-dash.png&#39; md5 = &#39;fe0f72dadeb6ef4f8bd48296b075f00e&#39;
+El guionet
+A l&#39;esquerra de la visió general, trobareu el guionet. El guionet mostra les vostres aplicacions preferides i en execució. Feu clic a qualsevol icona del guionet per obrir aquesta aplicació; si l&#39;aplicació ja s&#39;està executant, es realitzarà. Fent clic a la icona apareixerà la finestra més recentment utilitzada. També podeu arrossegar la icona a la vista general oa qualsevol espai de treball de la dreta.
+Feu clic amb el botó dret a la icona per mostrar un menú que us permet seleccionar qualsevol finestra d&#39;una aplicació en execució o obrir una nova finestra. També podeu fer clic a la icona mantenint premut Ctrl per obrir una nova finestra.
+Quan entreu a la visió general, inicialment us trobareu a la vista general de Windows. Això us mostra miniatures en viu de totes les finestres de l’espai de treball actual.
+Feu clic al botó de quadrícula que hi ha a la part inferior del quadre de comandament per mostrar la visió general de les aplicacions. Això us mostra totes les aplicacions instal·lades al vostre ordinador. Feu clic a qualsevol aplicació per executar-la o arrossegueu una aplicació a la visió general o a una miniatura de l&#39;espai de treball. També podeu arrossegar una aplicació al guionet per convertir-la en una de les preferides. Les vostres aplicacions preferides es mantenen en el plafó, fins i tot quan no s’estan executant, de manera que podreu accedir-hi ràpidament.
+Més informació sobre com iniciar les aplicacions.
+Obteniu més informació sobre les finestres i els espais de treball.
+Menú d’aplicacions
+extern ref = &#39;figures / shell-appmenu-shell.png&#39; md5 = &#39;870b7e88bdac60ef6fd0f32941bc3526&#39;
+Menú de l&#39;aplicació del terminal
+El menú de l&#39;aplicació, situat al costat del botó d&#39;activitats, mostra el nom de l&#39;aplicació activa junt amb la seva icona i proporciona un accés ràpid a les finestres i detalls de l&#39;aplicació, així com a un element de sortida.
+ref extern &#39;&#39; figures / shell-appmenu-classic.png &#39;md5 =&#39; 6e28997f340de69969bbd0ea6d4ec822 &#39;
+El menú d&#39;aplicacions, situat al costat dels menús Aplicacions i llocs, mostra el nom de l&#39;aplicació activa junt amb la seva icona i proporciona accés ràpid a preferències o ajuda de l&#39;aplicació. Els elements disponibles en el menú de l’aplicació varien en funció de l’aplicació.
+Rellotge, amp; calendari; cites
+Rellotge, calendari, cites i notificacions
+Feu clic al rellotge de la barra superior per veure la data actual, un calendari d&#39;un mes a mes, una llista de les vostres properes cites i les noves notificacions. També podeu obrir el calendari prement SuperM. Podeu accedir a la configuració de la data i l&#39;hora i obrir el calendari complet de l&#39;evolució directament des del menú.
+Obteniu més informació sobre el calendari i les cites.
+Més informació sobre les notificacions i la llista de notificacions.
+Menú del sistema
+ref extern &#39;&#39; figures / shell-exit.png &#39;md5 =&#39; d1151d6ca5276564830b92a2af45902b &#39;
+Menú d&#39;usuari
+ref extern &#39;&#39; figures / shell-exit-classic.png &#39;md5 =&#39; f36e3a0a115ff2181a6fc787e6a83283 &#39;
+Feu clic al menú del sistema que hi ha a l&#39;extrem superior dret per gestionar la configuració del sistema i l&#39;ordinador.
+Quan sortiu de l’ordinador, podeu bloquejar la pantalla per evitar que altres persones l’utilitzin. També podeu canviar ràpidament els usuaris sense tancar-vos la sessió completament per donar accés a l’ordinador a algú més, o podeu suspendre o apagar l’ordinador del menú. Si teniu una pantalla que admet la rotació vertical o horitzontal, podeu girar la pantalla ràpidament des del menú del sistema. Si la pantalla no admet la rotació, no veureu el botó.
+Obteniu més informació sobre com canviar d’usuaris, tancar la sessió i desactivar l’ordinador.
+Pantalla de bloqueig
+ref extern &#39;&#39; figures / shell-lock.png &#39;md5 =&#39; dcc0335a64450a3a7abed4448bfa84f2 &#39;
+Quan bloqueges la pantalla o es bloqueja automàticament, es mostrarà la pantalla de bloqueig. A més de protegir l&#39;escriptori mentre esteu lluny de l&#39;ordinador, la pantalla de bloqueig mostra la data i l&#39;hora. També mostra informació sobre l’estat de la vostra bateria i de la xarxa.
+Més informació sobre la pantalla de bloqueig.
+Llista de finestres
+El GNOME presenta un enfocament diferent per canviar les finestres que una llista de finestres permanentment visible que es troba en altres entorns d&#39;escriptori. Això us permet centrar-vos en la tasca a la mà sense distraccions.
+Més informació sobre com canviar les finestres.
+ref extern &#39;&#39; figures / shell-window-list-classic.png &#39;md5 =&#39; 83226d03f64e23f5c87794c897c81bcf &#39;
+Moure’s a l’escriptori mitjançant el teclat.
+Dreceres útils de teclat
+Aquesta pàgina ofereix una visió general de les dreceres de teclat que us poden ajudar a utilitzar l&#39;escriptori i les aplicacions de manera més eficient. Si no podeu utilitzar cap ratolí o dispositiu d&#39;apuntament, consulteu més informació sobre la navegació per les interfícies d&#39;usuari només amb el teclat.
+Com desplaçar-se per l&#39;escriptori
+AltF1 o el
+Tecla super
+Canvia entre la visió general de les activitats i l&#39;escriptori. A la visió general, comenceu a escriure per cercar de forma immediata les vostres aplicacions, contactes i documents.
+Desplegar finestra de comandes (per executar comandes ràpidament)
+Canviar ràpidament entre finestres. Mantingueu premut la tecla Shift per a l’ordre invers.
+Super`
+Canviar entre Windows des de la mateixa aplicació o des de l&#39;aplicació seleccionada després de SuperTab.
+Aquesta drecera utilitza `en els teclats dels Estats Units, on la tecla` està a sobre de la pestanya. A la resta de teclats, la drecera és Super més la tecla superior.
+Canviar entre les finestres a l’espai de treball actual. Mantingueu premut la tecla Shift per a l’ordre invers.
+Dóna el focus del teclat a la barra superior. A la visió general d&#39;activitats, canvieu el focus del teclat entre la barra superior, el quadre de comandament, la visió general de les finestres, la llista d&#39;aplicacions i el camp de cerca. Utilitzeu les tecles de fletxa per navegar.
+Mostra la llista d’aplicacions.
+Canviar entre els espais de treball.
+Pujar ShiftSuperPage
+Desplaceu la finestra actual a un espai de treball diferent.
+Desplaceu un monitor de la finestra actual a l&#39;esquerra.
+Desplaceu un monitor de la finestra actual a la dreta.
+Tancar sessió.
+Bloquejar la pantalla.
+Mostra la llista de notificacions. Prem de nou SuperV o Esc per tancar.
+Dreceres habituals d’edició
+CtrlA
+Seleccioneu tot el text o els elements d’una llista.
+CtrlX
+Retalleu (traieu) el text o els elements seleccionats i poseu-lo al porta-retalls.
+CtrlC
+Copieu el text o els elements seleccionats al porta-retalls.
+CtrlV
+Enganxeu el contingut del porta-retalls.
+CtrlZ
+Desfés l’última acció.
+Captura de la pantalla
+Prnt Scrn
+Feu una captura de pantalla.
+AltPrnt Scrn
+Feu una captura de pantalla d’una finestra.
+ShiftPrnt Scrn
+Feu una captura de pantalla d’una zona de la pantalla. El punter canvia a un punt de creu. Feu clic i arrossegueu per seleccionar una àrea.
+CtrlAltShiftR
+Inicia i atura la gravació de la projecció de pantalla.
+La pantalla de bloqueig decorativa i funcional proporciona informació útil.
+La pantalla de bloqueig
+La pantalla de bloqueig significa que podeu veure el que està passant mentre el vostre ordinador està bloquejat i us permet obtenir un resum del que ha passat mentre heu estat fora. La cortina de bloqueig de la pantalla mostra una imatge atractiva a la pantalla mentre l’ordinador està bloquejat i proporciona informació útil:
+el nom de l&#39;usuari que ha iniciat la sessió
+data i hora i determinades notificacions
+bateria i estat de la xarxa
+Per desbloquejar l&#39;equip, aixequeu la cortina de la pantalla de bloqueig arrossegant-la cap amunt amb el cursor o prement Esc o Enter. Això revelarà la pantalla d’inici de sessió, on podeu introduir la vostra contrasenya per desbloquejar-la. Alternativament, només cal que comenceu a escriure la vostra contrasenya i el teló s&#39;elevarà automàticament a mesura que escriviu. També podeu canviar usuaris si el vostre equip està configurat per a més d’un.
+Per ocultar les notificacions de la pantalla de bloqueig, vegeu.
+Marina Zhurakhinskaya
+Els missatges es despleguen des de la part superior de la pantalla que us indicaran quan passen determinats esdeveniments.
+Notificacions i llista de notificacions
+Què és una notificació?
+Si una aplicació o un component del sistema vol cridar l&#39;atenció, es mostrarà una notificació a la part superior de la pantalla o a la pantalla de bloqueig.
+Per exemple, si rebeu un missatge de xat nou o un correu electrònic nou, rebreu una notificació que us informarà. Les notificacions de xat reben un tractament especial i són representades pels contactes individuals que us han enviat els missatges de xat.
+Altres notificacions tenen botons d&#39;opcions seleccionables. Per tancar una d’aquestes notificacions sense seleccionar una de les seves opcions, feu clic al botó Tanca.
+Feu clic al botó Tancar en algunes notificacions per anul·lar-les. Altres, com Rhythmbox o la vostra aplicació de xat, romandran ocults a la llista de notificacions.
+La llista de notificacions
+La llista de notificacions us ofereix una manera de tornar a les notificacions quan us convingui. Apareix quan feu clic al rellotge o premeu SuperV. La llista de notificacions conté totes les notificacions sobre les quals no heu actuat o que hi resideixen definitivament.
+Podeu veure una notificació fent clic sobre ella a la llista. Podeu tancar la llista de notificacions prement de nou SuperV o Esc.
+Feu clic al botó Neteja la llista per buidar la llista de notificacions.
+Amagar les notificacions
+Si treballeu en alguna cosa i no voleu molestar-vos, podeu desactivar les notificacions.
+Feu clic a Notificacions a la barra lateral per obrir el tauler.
+Desactiveu les finestres emergents de notificació.
+Quan s&#39;ha desactivat, la majoria de notificacions no apareixeran a la part superior de la pantalla. Les notificacions encara estaran disponibles a la llista de notificacions quan el mostreu (fent clic al rellotge o prement SuperV) i començaran a aparèixer de nou quan activeu el canvi.
+També podeu desactivar o tornar a activar les notificacions per a aplicacions individuals del tauler de notificacions.
+Oculta les notificacions de la pantalla de bloqueig
+Quan la pantalla està bloquejada, apareixen notificacions a la pantalla de bloqueig. Podeu configurar la pantalla de bloqueig per ocultar aquestes notificacions per motius de privadesa.
+Per desactivar les notificacions quan la pantalla està bloquejada:
+Desactiva les notificacions de la pantalla de bloqueig.
+Escriptori
+Calendari, notificacions, dreceres de teclat, finestres i espais de treball ...
+El vostre escriptori
+Personalitza l&#39;escriptori
+Aplicacions i Windows
+Consulteu la visió general d’activitats o altres espais de treball.
+Cerqueu una finestra perduda
+Es pot trobar fàcilment una finestra d&#39;un espai de treball diferent o amagada darrere d&#39;una altra finestra mitjançant la visió general de les activitats:
+Obriu la visió general de les activitats. Si la finestra que falta és a l&#39;espai de treball actual, es mostrarà aquí en miniatura. Simplement feu clic a la miniatura per tornar a reproduir la finestra o
+Feu clic a diferents espais de treball al selector d&#39;espai de treball que hi ha a la part dreta de la pantalla per intentar trobar la finestra o
+Feu clic amb el botó dret a l’aplicació del guionet i es mostraran les finestres obertes. Feu clic a la finestra de la llista per canviar-hi.
+Ús del commutador de finestres:
+Premeu SuperTab per mostrar el commutador de finestres. Continuar mantenint premuda la tecla Super i premeu la tecla Tab per anar a les finestres obertes o ShiftTab per desplaçar-se cap enrere.
+Si una aplicació té diverses finestres obertes, manteniu premuda la tecla Super i premeu `(o la tecla superior a la pestanya) per passar-les.
+Feu doble clic o arrossegueu una barra de títol per maximitzar o restaurar una finestra.
+Maximitza i desmarca una finestra
+Podeu maximitzar la finestra per ocupar tot l&#39;espai de l&#39;escriptori i desvincular una finestra per restaurar-la a la mida normal. També podeu maximitzar les finestres verticalment pels costats esquerre i dret de la pantalla, de manera que podeu veure fàcilment dues finestres alhora. Consulteu-ne els detalls.
+Per maximitzar una finestra, agafeu la barra de títol i arrossegueu-la a la part superior de la pantalla o simplement feu doble clic a la barra de títol. Per maximitzar una finestra mitjançant el teclat, manteniu premuda la tecla Súper i premeu ↑, o premeu AltF10.
+També podeu maximitzar una finestra fent clic al botó Maximitzar a la barra de títol.
+Per restaurar una finestra a la mida no aproximada, arrossegueu-la allà mateix des dels extrems de la pantalla. Si la finestra està totalment maximitzada, podeu fer doble clic sobre la barra de títol per restaurar-la. També podeu utilitzar les mateixes dreceres de teclat que utilitzeu per maximitzar la finestra.
+Manteniu premuda la tecla Super i arrossegueu qualsevol part de la finestra per moure-la.
+Organitzeu les finestres en un espai de treball per ajudar-vos a treballar de manera més eficient.
+Desplaceu i redimensioneu el format de les finestres
+Podeu moure i canviar la mida de les finestres per ajudar-vos a treballar de manera més eficient. A més del comportament d’arrossegament que podríeu esperar, el GNOME ofereix dreceres i modificadors per ajudar-vos a organitzar les finestres ràpidament.
+Desplaceu una finestra arrossegant la barra de títol o manteniu premuda la tecla Super i arrossegueu-la a qualsevol part de la finestra. Mantingueu premut la tecla Maj mentre que es mogui per ajustar la finestra a les vores de la pantalla i altres finestres.
+Redimensiona la mida d’una finestra arrossegant les vores o la cantonada de la finestra. Manteniu premuda la tecla Maj mentre canvieu la mida per ajustar la finestra a les vores de la pantalla i altres finestres.
+També podeu canviar la mida de la finestra maximitzada fent clic al botó Maximitzar a la barra de títol.
+Desplaceu o redimensioneu la mida d&#39;una finestra usant només el teclat. Premeu AltF7 per moure una finestra o AltF8 per canviar la mida. Utilitzeu les tecles de fletxa per desplaçar-se o canviar el redimensionament i, a continuació, premeu Enter per acabar o premeu Esc per tornar a la posició i mida originals.
+Maximitzeu una finestra arrossegant-la a la part superior de la pantalla. Arrossegueu una finestra a un costat de la pantalla per maximitzar-la al costat, de manera que us rajoleu les rajoles de costat.
+Premeu SuperTab.
+Canviar entre finestres
+Podeu veure totes les aplicacions en execució que tenen una interfície gràfica d’usuari al commutador de finestres. Això fa que el canvi entre tasques sigui un procés d’un sol pas i proporciona una imatge completa de les aplicacions que s’executen.
+Des d’un espai de treball:
+Premeu SuperTab per mostrar el commutador de finestres.
+Allibereu Super per seleccionar la següent (ressaltada) finestra del commutador.
+En cas contrari, mantenint premuda la tecla Super, premeu Tab per desplaçar-se per la llista de les finestres obertes o Majúscules per desplaçar-se cap enrere.
+També podeu utilitzar la llista de finestres de la barra inferior per accedir a totes les finestres obertes i canviar entre elles.
+Les finestres del commutador de finestres s’agrupen per aplicació. Es mostren les visualitzacions prèvies de les aplicacions amb diverses finestres al fer clic. Manteniu premuda la tecla Super i premeu `(o la tecla superior a la pestanya) per passar a la llista.
+També podeu moure’s entre les icones de l’aplicació del commutador de finestres amb les tecles → o ← o seleccionar-ne una fent clic amb el ratolí.
+Amb la tecla ↓ es poden visualitzar les previsualitzacions d’aplicacions amb una única finestra.
+A la vista general d&#39;Activitats, feu clic en una finestra per canviar-la i deixar la visió general. Si teniu oberts diversos espais de treball, podeu fer clic a cada espai de treball per veure les finestres obertes de cada àrea de treball.
+Maximitzeu dues finestres una al costat de l&#39;altra.
+Finestres de rajola
+Podeu maximitzar la finestra només a la part esquerra o dreta de la pantalla, el que us permet col·locar dues finestres una al costat de l&#39;altra per canviar ràpidament entre elles.
+Per maximitzar una finestra al llarg d&#39;un costat de la pantalla, agafeu la barra de títol i arrossegueu-la cap al costat esquerre o dret fins que es ressalti la meitat de la pantalla. Mitjançant el teclat, manteniu premuda la tecla Super i premeu la tecla esquerra o dreta.
+Per restablir una finestra a la mida original, arrossegueu-la del costat de la pantalla o utilitzeu la mateixa drecera del teclat que vau utilitzar com a màxim.
+Desplaceu-vos i organitzeu les finestres.
+Windows i espais de treball
+Igual que altres ordinadors de sobretaula, GNOME utilitza Windows per mostrar les vostres aplicacions en execució. Utilitzant tant la visió general de les activitats com el guionet, podeu llançar noves aplicacions i controlar les finestres actives.
+També podeu agrupar les vostres aplicacions dins dels espais de treball. Visiteu els temes d’ajuda de la finestra i l’espai de treball que s’indiquen a continuació per obtenir més informació sobre com utilitzar aquestes funcions.
+Windows
+Treball amb Windows
+Espais de treball
+Treballar amb espais de treball
+Vés a la visió general d’activitats i arrossega la finestra a un espai de treball diferent.
+Desplaceu una finestra a un espai de treball diferent
+Utilitzant el ratolí:
+Obriu la visió general de les activitats.
+Obriu la visió general d’activitats del menú Aplicacions a la part superior esquerra de la pantalla.
+Feu clic i arrossegueu la finestra cap a la dreta de la pantalla.
+Apareixerà el selector d’espai de treball.
+Col·loca la finestra a un espai de treball buit. Aquest espai de treball ara conté la finestra que heu deixat caure i un nou espai de treball buit apareix a la part inferior del selector d&#39;espai de treball.
+Col·loca la finestra a un espai de treball buit. Aquest espai de treball ara conté la finestra que heu deixat caure.
+Usant el teclat:
+Seleccioneu la finestra que voleu moure (per exemple, mitjançant el commutador de finestres SuperTab).
+Premeu SuperShiftPage Up per desplaçar la finestra a un espai de treball situat per sobre de l&#39;espai de treball actual del selector d&#39;espai de treball.
+Premeu SuperShiftPage Down per desplaçar la finestra a un espai de treball situat a sota de l&#39;espai de treball actual del selector d&#39;espai de treball.
+Utilitzeu el selector d&#39;espai de treball.
+Canviar entre els espais de treball
+A la part superior esquerra de la pantalla, feu clic al menú Aplicacions i trieu Vista general de les activitats.
+Feu clic a un espai de treball al selector d&#39;espai de treball situat a la part dreta de la pantalla per visualitzar les finestres obertes d&#39;aquest espai de treball.
+Feu clic a qualsevol miniatura de la finestra per activar l’espai de treball.
+De forma alternativa, podeu canviar d’espais de treball fent clic al identificador d’espai de treball situat a la part dreta de la llista de finestres de la barra inferior i seleccionant l’espai de treball que voleu utilitzar al menú.
+Premeu SuperPage Up o CtrlAltUp per passar a l&#39;espai de treball que es mostra a l&#39;espai de treball actual al selector d&#39;espai de treball.
+Premeu SuperPage Down o CtrlAltDown per passar a l&#39;espai de treball que es mostra a sota de l&#39;espai de treball actual al selector d&#39;espai de treball.
+Els espais de treball són una manera d’agrupar les finestres a l’escriptori.
+Què és un espai de treball i com m’ajudarà?
+ref extern &#39;&#39; figures / shell-workspaces.png &#39;md5 =&#39; 5a7e511449e645bf69111c82868f4db8 &#39;
+Selector d&#39;espai de treball
+Els espais de treball fan referència a l’agrupació de finestres a l’escriptori. Podeu crear diversos espais de treball, que actuen com a escriptoris virtuals. Els espais de treball pretenen reduir el desordre i facilitar la navegació a l&#39;escriptori.
+Els espais de treball fan referència a l’agrupació de finestres a l’escriptori. Podeu utilitzar diversos espais de treball, que actuen com a escriptoris virtuals. Els espais de treball pretenen reduir el desordre i facilitar la navegació a l&#39;escriptori.
+Els espais de treball es poden utilitzar per organitzar el vostre treball. Per exemple, podeu tenir totes les finestres de comunicació, com ara el correu electrònic i el programa de xat, en un espai de treball i el treball que esteu fent en un espai de treball diferent. El vostre gestor de música podria estar en un tercer espai de treball.
+Utilitzant espais de treball:
+A la vista general d&#39;Activitats, moveu el cursor a la part més dreta de la pantalla.
+Premeu la tecla Súper per obrir la visió general d&#39;activitats i després moveu el cursor a la part més dreta de la pantalla.
+Apareixerà un plafó vertical que mostra els espais de treball en ús, a més d&#39;un espai de treball buit. Aquest és el selector d&#39;espai de treball.
+Apareixerà un plafó vertical que mostra els espais de treball disponibles. Aquest és el selector d&#39;espai de treball.
+Per afegir un espai de treball, arrossegueu i deixeu anar una finestra d&#39;un espai de treball existent a l&#39;espai de treball buit del selector d&#39;espai de treball. Aquest espai de treball ara conté la finestra que heu deixat caure i hi apareixerà un nou espai de treball buit.
+Per eliminar un espai de treball, només cal que tanqueu totes les finestres o que es moguin a altres espais de treball.
+Sempre hi ha almenys un espai de treball.
+Trieu el so que voleu reproduir per als missatges, configureu el volum d&#39;alerta o desactiveu els sons d&#39;alerta.
+Trieu o desactiveu el so d&#39;alerta
+L’ordinador reproduirà un so d’alerta senzill per a certs tipus de missatges i esdeveniments. Podeu triar diferents clips de so per a alertes, configurar el volum d’alerta independentment del volum del vostre sistema o desactivar els sons d’alerta totalment.
+Obriu la visió general de les activitats i comenceu a escriure So.
+Feu clic a So per obrir el tauler.
+A la secció Alert Sound, seleccioneu un so d&#39;alerta. Cada so es reproduirà quan feu clic sobre ell per escoltar com sona.
+Utilitzeu el botó lliscant de volum per a System Soundsin la secció Level Levels (Volums de volum) per configurar el volum del so d&#39;alerta. Això no afectarà el volum de música, pel·lícules o altres fitxers de so.
+Resolució de problemes com no tenir so o tenir una mala qualitat de so.
+Problemes de so
+Hi ha diverses maneres de reproduir so a l’ordinador. Quin dels temes a continuació descriu millor el problema que teniu?
+Comproveu els cables d&#39;àudio i els controladors de les targetes de so.
+Sento que grinyola o esbufega quan es reprodueixen els sons
+Si sentiu queixar-se o sonar quan es reprodueixen sons a l’ordinador, és possible que tingueu un problema amb els cables o connectors d’àudio o un problema amb els controladors de la targeta de so.
+Comproveu que els altaveus estiguin connectats correctament.
+Si els altaveus no estan completament connectats o si es connecten a la presa incorrecta, és possible que sentiu un sonor.
+Assegureu-vos que el cable dels altaveus / auriculars no estigui malmès.
+Els cables i connectors d&#39;àudio es poden utilitzar gradualment amb l&#39;ús. Proveu de connectar el cable o els auriculars a un altre dispositiu d&#39;àudio (com un reproductor de MP3 o un reproductor de CD) per comprovar si encara hi ha un so de cremp. Si n&#39;hi ha, potser haureu de substituir el cable o els auriculars.
+Comproveu si els controladors de so no són gaire bons.
+Algunes targetes de so no funcionen molt bé a Linux perquè no tenen molt bons controladors. És més difícil identificar aquest problema. Proveu de cercar la marca i el model de la vostra targeta de so a Internet, més el terme de cerca &quot;Linux&quot;, per veure si altres persones tenen el mateix problema.
+Podeu utilitzar l’ordre lspci per obtenir més informació sobre la vostra targeta de so.
+Comproveu que el so no estigui silenciat, que els cables estiguin connectats correctament i que es detecti la targeta de so.
+No puc sentir cap so a l’ordinador
+Si no podeu sentir cap so a l’ordinador, per exemple, quan intenteu reproduir música, seguiu els següents consells sobre resolució de problemes.
+Assegureu-vos que el so no està silenciat
+Obriu el menú del sistema i assegureu-vos que el so no està silenciat ni apagat.
+Alguns ordinadors portàtils tenen silencis interruptors o tecles als seus teclats: proveu de prémer aquesta tecla per comprovar si inactiva el so.
+També heu de comprovar que no heu silenciat l&#39;aplicació que feu servir per reproduir so (per exemple, el reproductor de música o el reproductor de pel·lícules). L’aplicació pot tenir un botó de silenciació o volum a la finestra principal, així que comproveu-ho.
+També podeu consultar la pestanya Aplicacions a la interfície gràfica de so:
+A Nivells de volum, comproveu que la vostra aplicació no estigui en silenci.
+Comproveu que els altaveus estiguin encesos i connectats correctament
+Si el vostre ordinador té altaveus externes, assegureu-vos que estiguin enceses i que el volum estigui actualitzat. Assegureu-vos que el cable dels altaveus estigui ben connectat a la presa d&#39;àudio &quot;de sortida&quot; del vostre ordinador. Aquesta toma sol tenir un color verd clar.
+Algunes targetes de so poden canviar entre la presa que utilitzen per a la sortida (als altaveus) i la presa per a l&#39;entrada (per exemple, des d&#39;un micròfon). La presa de sortida pot ser diferent quan s&#39;executa Linux, Windows o Mac OS. Proveu de connectar el cable de l’altaveu a una presa d’àudio diferent de l’ordinador.
+L’última cosa que cal comprovar és que el cable d’àudio estigui connectat de manera segura a la part posterior dels altaveus. Alguns altaveus també tenen més d’una entrada.
+Comproveu que s&#39;hagi seleccionat el dispositiu de so correcte
+Alguns equips tenen instal·lats diversos “dispositius de so”. Alguns d&#39;aquests són capaços d&#39;emetre so i d&#39;altres que no ho són, per la qual cosa heu de comprovar que heu seleccionat el dispositiu de so correcte. Això pot implicar algun error de prova i d&#39;error per triar-ne l&#39;adequat.
+A Sortida, canvia la configuració del perfil del dispositiu seleccionat i reprodueix un so per veure si funciona. Pot ser que hagis de passar per la llista i provar cada perfil.
+Si això no funciona, potser voldreu provar a fer el mateix per a qualsevol altre dispositiu a la llista.
+Comproveu que s&#39;ha detectat correctament la targeta de so
+És possible que la vostra targeta de so no s&#39;hagi detectat correctament, perquè els controladors de la targeta no estan instal·lats. És possible que necessiteu instal·lar els controladors de la targeta manualment. Com fer això depèn del tipus de targeta.
+Executeu l&#39;ordre lspci al Terminal per saber quina targeta de so teniu:
+Vés a la visió general de les activitats i obre un terminal.
+Executa lspci com a superusuari; bé escriviu sudo lspci i escriviu la vostra contrasenya o escriviu su, introduïu la contrasenya root (administrativa) i escriviu lspci.
+Comproveu si hi ha un controlador d’àudio o un dispositiu d’àudio: en aquest cas heu de veure el número de marca i model de la targeta de so. A més, lspci -v mostra una llista amb informació més detallada.
+És possible que pugueu trobar i instal·lar controladors per a la targeta. El millor és demanar fòrums de suport (o d’una altra manera) per a la distribució de Linux per obtenir instruccions.
+Si no podeu obtenir controladors per a la vostra targeta de so, potser preferiu comprar una nova targeta de so. Podeu obtenir targetes de so que es poden instal·lar a l’ordinador i targetes de so USB externes.
+Utilitzeu un micròfon analògic o USB i seleccioneu un dispositiu d&#39;entrada predeterminat.
+Utilitzeu un micròfon diferent
+Podeu utilitzar un micròfon extern per xerrar amb els amics, parlar amb els companys de feina, fer enregistraments de veu o utilitzar altres aplicacions multimèdia. Encara que el vostre ordinador tingui un micròfon integrat o una càmera web amb un micròfon, un micròfon separat sol proporcionar una millor qualitat de l’àudio.
+Si el micròfon té un connector circular, només l&#39;heu de connectar a la presa d&#39;àudio adequada del vostre ordinador. La majoria dels ordinadors tenen dos connectors: un per a micròfons i un altre per a altaveus. Aquesta presa és de color vermell clar o va acompanyada d’una imatge d’un micròfon. Els micròfons connectats a la presa adequada s’utilitzen de manera predeterminada. Si no, vegeu les instruccions següents per seleccionar un dispositiu d&#39;entrada predeterminat.
+Si teniu un micròfon USB, connecteu-lo a qualsevol port USB del vostre ordinador. Els micròfons USB actuen com a dispositius d’àudio separats, i és possible que hàgiu d’especificar de manera predeterminada quin micròfon s’ha d’utilitzar.
+Seleccioneu un dispositiu d&#39;entrada d&#39;àudio predeterminat
+A la pestanya Entrada, seleccioneu el dispositiu que voleu utilitzar. L’indicador del nivell d’entrada hauria de respondre quan parleu.
+Podeu ajustar el volum i desactivar el micròfon des d&#39;aquest panell.
+Connecteu altaveus o auriculars i seleccioneu un dispositiu de sortida d&#39;àudio predeterminat.
+Utilitzeu diferents altaveus o auriculars
+Podeu utilitzar altaveus o auriculars externs amb l&#39;ordinador. Els altaveus solen connectar-se mitjançant un connector circular TRS (punta, anell, màniga) o un USB.
+Si els altaveus o els auriculars tenen un connector TRS, connecteu-lo a la presa adequada de l’ordinador. La majoria dels ordinadors tenen dos connectors: un per a micròfons i un altre per a altaveus. Aquesta presa és de color verd clar o va acompanyada d’una imatge d’auriculars. Els altaveus o auriculars connectats a una presa TRS se solen fer de manera predeterminada. Si no, vegeu les instruccions següents per seleccionar el dispositiu predeterminat.
+Alguns ordinadors admeten sortides multicanal per al so surround. Generalment s&#39;utilitzen múltiples preses TRS, que sovint són codificades per colors. Si no esteu segurs de quins endolls porten els connectors, podeu provar la sortida de so a la configuració de so.
+Si teniu altaveus o auriculars USB, o auriculars analògics connectats a una targeta de so USB, connecteu-los a qualsevol port USB. Els altaveus USB actuen com a dispositius d&#39;àudio separats, i és possible que hàgiu d&#39;especificar quins altaveus han de fer de manera predeterminada.
+A la pestanya Sortida, seleccioneu el dispositiu que voleu utilitzar.
+Feu servir el botó Prova d’altaveus per comprovar que tots els altaveus funcionen i estiguin connectats a la presa correcta.
+Definiu el volum de so de l’ordinador i controleu la sonoritat de cada aplicació.
+Canvieu el volum de so
+Per canviar el volum del so, obriu el menú del sistema des del costat dret de la barra superior i mueu el control lliscant de volum cap a l&#39;esquerra o cap a la dreta. Podeu desactivar el so arrossegant el control lliscant cap a l&#39;esquerra.
+Alguns teclats tenen tecles que permeten controlar el volum. Normalment semblen altaveus estilitzats amb ones que se’n surten. Sovint es troben a prop de les tecles &quot;F&quot; de la part superior. Als teclats d’ordinador portàtil solen estar sobre les tecles “F”. Manteniu premuda la tecla Fn del teclat per utilitzar-los.
+Si teniu altaveus externes, també podeu canviar el volum mitjançant el control de volum dels altaveus. Alguns auriculars també tenen control de volum.
+Canvi del volum de so per a aplicacions individuals
+Podeu canviar el volum d’una aplicació i deixar el volum d’altres sense canvis. Això és útil si escolteu música i navegueu per web, per exemple. És possible que vulgueu desactivar l&#39;àudio al navegador web perquè els sons dels llocs web no interrompin la música.
+Algunes aplicacions tenen controls de volum a les seves finestres principals. Si la vostra aplicació té el control de volum, utilitzeu-la per canviar el volum. Sinó:
+A Nivells de volum, canvieu el volum de l&#39;aplicació que s&#39;enumera.
+Només es llisten les aplicacions que reprodueixen sons. Si una aplicació reprodueix sons, però no apareix a la llista, pot ser que no admeti la funció que us permet controlar el seu volum d&#39;aquesta manera. En aquest cas, no podreu canviar el volum.
+Monica Kochofar
+Explica els significats de les icones situades a la dreta de la barra superior.
+Què signifiquen les icones de la barra superior?
+Aquesta secció explica el significat de les icones situades a la cantonada superior dreta de la pantalla. Més concretament, es descriuen les diferents variacions de les icones que proporciona la interfície del GNOME.
+extern ref = &#39;figures / top-bar-icons.png&#39; md5 = &#39;ec52429596ce2045c08b989c18f1a579&#39;
+ref extern &#39;&#39; figures / top-bar-icons-classic.png &#39;md5 =&#39; a297d2b5fa52907add3f075cd4753e08 &#39;
+Icones de menú d&#39;accés universal
+Porta a un menú que activa la configuració d’accessibilitat.
+Icones de control de volum
+El volum és ajustat a alt.
+El volum s&#39;estableix en mig.
+El volum és ajustat a baix.
+El volum està silenciat.
+Icones del gestor de Bluetooth
+El Bluetooth s’ha activat.
+El Bluetooth s&#39;ha desactivat.
+Explica els significats de les icones del gestor de xarxa.
+Icones del gestor de xarxa
+Connexió mòbil
+Connectat a una xarxa 3G
+Connectat a una xarxa 4G.
+Connectat a una xarxa EDGE.
+Connectat a una xarxa GPRS.
+Connectat a una xarxa UMTS.
+Connectat a una xarxa mòbil.
+Adquisició de connexió de xarxa mòbil.
+Potència del senyal molt elevada.
+Alta potència del senyal.
+Potència del senyal mitjana.
+Potència del senyal baixa.
+Potència del senyal extremadament baixa.
+Connexió de xarxa d&#39;àrea local (LAN)
+S&#39;ha produït un error en trobar la xarxa.
+La xarxa està inactiva.
+No s&#39;ha trobat cap ruta per a la xarxa.
+La xarxa està fora de línia.
+La xarxa rep dades.
+La xarxa transmet i rep dades.
+La xarxa transmet dades.
+Connexió de xarxa privada virtual (VPN)
+Adquisició de connexió de xarxa.
+Connectat a una xarxa VPN.
+Connexió per cable
+Desconnectat de la xarxa.
+Connectat a una xarxa per cable.
+Connexió sense fils
+Adquisició de connexió sense fils.
+La xarxa sense fils està xifrada.
+Connectat a una xarxa sense fils.
+Potència del senyal molt baixa.
+Icones del gestor d&#39;energia
+La bateria està plena.
+La bateria està parcialment drenada.
+La bateria és baixa.
+Precaució: la bateria és molt baixa.
+La bateria és molt baixa.
+La bateria s&#39;ha desconnectat.
+La bateria està totalment carregada.
+La bateria està plena i es carrega.
+La bateria està parcialment plena i es carrega.
+La bateria està baixa i es carrega.
+La bateria és molt baixa i es carrega.
+La bateria està buida i es carrega.
+Escriviu caràcters que no s’han trobat al teclat, inclosos alfabets estrangers, símbols matemàtics i botigues de disc.
+Introduïu caràcters especials
+Podeu introduir i veure milers de caràcters de la majoria dels sistemes d’escriptura del món, fins i tot els que no es troben al vostre teclat. Aquesta pàgina enumera algunes maneres diferents d’introduir caràcters especials.
+Mètodes per introduir caràcters
+Personatges
+El GNOME arriba amb una aplicació de mapes de caràcters que permet trobar i inserir caràcters inusuals, inclòs emoji, navegant per categories de personatges o cercant paraules clau.
+Podeu llançar Personatges des de la vista general de les activitats.
+Tecla de composició
+Una tecla de composició és una tecla especial que permet prémer diverses tecles seguides per obtenir un caràcter especial. Per exemple, per escriure la lletra accentuada é, podeu prémer composar i, a continuació, e.
+Els teclats no tenen claus de composició específiques. En lloc, podeu definir una de les tecles existents del vostre teclat com a clau de composició.
+Definiu una clau de redacció
+Feu clic a l&#39;amplificador de teclat; Pestanya del ratolí.
+Feu clic a Desactivat al costat de la configuració de la clau de composició.
+Engegueu l’interruptor al diàleg i trieu la drecera del teclat que voleu utilitzar.
+Marqueu la casella de selecció de la clau que voleu definir com a clau de composició.
+Tanqueu el diàleg.
+Podeu escriure molts caràcters comuns mitjançant la tecla de redacció, per exemple:
+Premeu escriviu i, a continuació, una lletra per posar un accent agut sobre aquesta lletra, com és.
+Premeu escriviu i, a continuació, ((marcar enrere) i després una lletra per posar un accent greu sobre aquesta lletra, com è.
+Premeu per escriure &quot;després una lletra per col·locar un puntet sobre aquesta lletra, com ara ë.
+Premeu escriviu i, a continuació, una lletra per col·locar un macró sobre aquesta lletra, com ara ē
+Per obtenir més seqüències de redacció de claus, consulteu la pàgina de redacció de claus a la Viquipèdia.
+Punts de codi
+Podeu introduir qualsevol caràcter Unicode utilitzant només el teclat amb el punt de codi numèric del personatge. Cada personatge s’identifica amb un punt de codi de quatre caràcters. Per trobar el punt de codi d’un personatge, busqueu-lo a l’aplicació Personatges. El punt de codi són els quatre caràcters posteriors a U +.
+Per introduir un personatge pel seu punt de codi, premeu CtrlShiftU, després escriviu el codi de quatre caràcters i premeu Space o Enter. Si utilitzeu sovint caràcters als quals no podeu accedir fàcilment amb altres mètodes, potser és útil memoritzar el punt de codi per a aquests caràcters per poder-los introduir ràpidament.
+Disposicions de teclat
+Podeu fer que el vostre teclat es comporti com el teclat per a un altre idioma, independentment de les lletres impreses a les tecles. Fins i tot podeu canviar fàcilment entre dissenys de teclat diferents mitjançant una icona a la barra superior. Per obtenir informació sobre, vegeu.
+Mètodes d’entrada
+Un mètode d&#39;entrada amplia els mètodes anteriors permetent introduir caràcters no només amb teclat, sinó també amb qualsevol dispositiu d&#39;entrada. Per exemple, podeu introduir caràcters amb un ratolí mitjançant un mètode gestual, o bé introduir caràcters japonesos mitjançant un teclat llatí.
+Per triar un mètode d’entrada, feu clic amb el botó dret sobre un widget de text i, al menú Mètode d’entrada, trieu el mètode d’entrada que voleu utilitzar. No hi ha cap mètode d&#39;entrada predeterminat, per tant, consulteu la documentació dels mètodes d&#39;entrada per veure com utilitzar-los.
+Personatges especials, dreceres de clic central ...
+Consells amp; trucs
+Manipuleu l&#39;escriptori mitjançant gestos a la pantalla tàctil.
+Utilitzeu els gestos de la pantalla tàctil per navegar a l&#39;escriptori
+Els gestos multitouch es poden utilitzar en pantalles tàctils per a la navegació del sistema, així com en aplicacions.
+Diverses aplicacions fan servir gestos. A View Viewer, es poden fer zoom i desplaçar els documents amb gestos i, a més, Image Viewer us permet fer zoom, rotar i desplaçar-los.
+Gestos a tot el sistema
+Obriu la visió general de les activitats
+Ajudeu tres o més dits junts mentre toqueu la pantalla.
+Obriu la visualització d’aplicacions
+Feu lliscar cap a la dreta des de la vora de la pantalla esquerra.
+Aneu a la llista de notificacions
+Llisqueu cap avall des de la vora central superior.
+Baixeu el menú del sistema
+Llisqueu cap avall des de la vora superior dreta.
+Poseu el teclat a la pantalla
+Desplaceu-vos cap amunt des de la vora inferior de la pantalla.
+Canviar d&#39;aplicació
+Sosteniu tres dits a la superfície mentre punxeu amb el quart.
+Switch Espai de treball
+Arrossegueu cap amunt o cap avall amb quatre dits tocant la pantalla.
+Gestos d&#39;aplicació
+Obre un tema, llança una aplicació, reprodueix una cançó
+Toqueu un element.
+Seleccioneu un element i enumereu les accions que es poden realitzar
+Mantingueu premut un segon o dos.
+Desplaçar la zona a la pantalla
+Arrossegueu: feu lliscar un dit tocant la superfície.
+Canvieu el nivell de zoom d&#39;una vista (mapes, fotos)
+Pessic o estira amb dos dits: toqueu la superfície amb dos dits mentre els apropeu o més a part.
+Gireu una foto
+Girar dos dits: toqueu la superfície amb dos dits i gireu-la.
+Com i on ajudar a traduir aquests temes.
+Participa per millorar les traduccions
+L’ajuda de GNOME està traduïda per una comunitat de voluntaris a tot el món. Us convidem a participar.
+Hi ha molts idiomes per als quals encara calen traduccions.
+Per començar a traduir, haureu de crear un compte i unir-vos a l’equip de traducció del vostre idioma. Això us permetrà carregar noves traduccions.
+Podeu conversar amb traductors de GNOME unint el canal # i18n al servidor del GNC IRC. Les persones del canal es troben a tot el món, de manera que no podreu obtenir una resposta immediata a causa de les diferències de fus horari.
+També podeu contactar amb l&#39;equip de internacionalització mitjançant la seva llista de correu.
+Usuaris
+Afegeix usuari, canvia la contrasenya, els administradors ...
+Comptes d’usuari
+Cada persona que utilitza l’ordinador ha de tenir un compte d’usuari diferent. Això els permet mantenir els seus fitxers separats dels vostres i triar la seva pròpia configuració. També és més segur. Només podeu accedir a un compte d&#39;usuari diferent si coneixeu la contrasenya.
+Comptes
+Gestiona els comptes d’usuari
+Contrasenyes
+Privilegis
+Privilegis d’usuari
+Afegiu nous usuaris perquè altres persones puguin iniciar la sessió a l’ordinador.
+Afegeix un compte d&#39;usuari nou
+Podeu afegir diversos comptes d’usuari a l’ordinador. Feu un compte a cada persona de la vostra llar o empresa. Cada usuari té la seva pròpia carpeta, documents i configuració de casa.
+Necessiteu privilegis d’administrador per afegir comptes d’usuari.
+Premeu el botó +, a sota de la llista de comptes de l’esquerra, per afegir un nou compte d’usuari.
+Si voleu que el nou usuari tingui accés administratiu a l’ordinador, seleccioneu Administrador per al tipus de compte.
+Els administradors poden fer coses com afegir i eliminar usuaris, instal·lar programari i controladors i canviar la data i l&#39;hora.
+Introduïu el nom complet del nou usuari. El nom d’usuari s’emplenarà automàticament en funció del nom complet. Si no us agrada el nom d’usuari proposat, podeu canviar-lo.
+Podeu optar per establir una contrasenya per al nou usuari o bé deixar-los definir ells mateixos en el primer contacte.
+generar contrasenya
+Si voleu definir la contrasenya ara, podeu prémer la icona per generar automàticament una contrasenya aleatòria.
+Si voleu canviar la contrasenya després de crear el compte, seleccioneu el compte, Desbloquegeu el tauler i premeu l&#39;estat de la contrasenya actual.
+Al tauler d&#39;usuaris, podeu fer clic a la imatge al costat del nom de l&#39;usuari a la dreta per configurar una imatge per al compte. Aquesta imatge es mostrarà a la finestra d&#39;inici de sessió. El GNOME proporciona algunes fotos de fons que podeu utilitzar o podeu seleccionar-ne les pròpies o fer-vos una fotografia amb la vostra càmera web.
+Podeu permetre als usuaris fer canvis al sistema donant-los privilegis administratius.
+Canvia qui té privilegis administratius
+Els privilegis administratius són una manera de decidir qui pot fer canvis en parts importants del sistema. Podeu canviar quins usuaris tenen privilegis administratius i quins no. Són una bona manera de mantenir el vostre sistema segur i prevenir possibles danys a canvis no autoritzats.
+Necessiteu privilegis d’administrador per canviar els tipus de compte.
+Feu clic a Usuaris per obrir el tauler.
+Seleccioneu l’usuari els privilegis que vulgueu canviar.
+Feu clic a l’etiqueta Estàndard al costat de Tipus de compte i seleccioneu Administrador.
+Els privilegis de l’usuari es canviaran quan inicien la sessió següent.
+El primer compte d&#39;usuari del sistema sol ser el que té privilegis d&#39;administrador. Aquest és el compte d’usuari que es va crear quan vau instal·lar el sistema per primera vegada.
+No és normal tenir massa usuaris amb privilegis d’administrador en un sistema.
+Necessiteu privilegis administratius per canviar parts importants del vostre sistema.
+Com funcionen els privilegis administratius?
+A més dels fitxers que creeu, el vostre ordinador disposa de diversos fitxers que el sistema necessita perquè funcioni correctament. Si es canvien incorrectament aquests fitxers importants del sistema, es poden produir diverses ruptures, de manera que es protegeixen dels canvis per defecte. Algunes aplicacions també modifiquen parts importants del sistema i, per tant, també estan protegides.
+La forma en què es protegeixen només permet als usuaris amb privilegis administratius canviar els fitxers o utilitzar les aplicacions. En l’ús quotidià, no haureu de canviar cap fitxer del sistema ni fer servir aquestes aplicacions, de manera que per defecte no teniu privilegis administratius.
+De vegades és necessari que utilitzeu aquestes aplicacions, de manera que és possible que pugueu obtenir privilegis administratius de manera temporal per permetre els canvis. Si una aplicació necessita privilegis administratius, us demanarà la vostra contrasenya. Per exemple, si voleu instal·lar algun programari nou, l’instal·lador de programari (gestor de paquets) demanarà la vostra contrasenya d’administrador perquè pugui afegir la nova aplicació al sistema. Un cop hagi finalitzat, es tornaran a treure els vostres privilegis administratius.
+Els privilegis d&#39;administració s&#39;associen al vostre compte d&#39;usuari. Els usuaris administradors poden tenir aquests privilegis mentre que els usuaris estàndard no ho siguin. Sense privilegis administratius, no podreu instal·lar programari. Alguns comptes d’usuari (per exemple, el compte “root”) tenen privilegis administratius permanents. No heu d&#39;utilitzar els privilegis d&#39;administració tot el temps, perquè podríeu canviar accidentalment alguna cosa que no teníeu la intenció (com, per exemple, suprimir un fitxer del sistema necessari).
+En resum, els privilegis administratius permeten canviar parts importants del vostre sistema quan sigui necessari, però impedeixen fer-ho de forma accidental.
+Què significa &quot;super usuari&quot;?
+A vegades, un usuari amb privilegis administratius és anomenat súper usuari. Això es deu simplement a que aquest usuari té més privilegis que els usuaris normals. És possible que vegeu persones que discuteixen coses com su i sudo; es tracta de programes per donar-los temporalment privilegis de &quot;super usuari&quot; (administratiu).
+Per què són útils els privilegis administratius?
+Exigir que els usuaris tinguin privilegis administratius abans que es facin canvis importants del sistema és útil perquè ajuda a evitar que el sistema es trenqui, intencionadament o sense voler.
+Si teníeu privilegis administratius tot el temps, podríeu canviar un fitxer important o executar una aplicació que canvia alguna cosa important per error. Només obtenir privilegis administratius de forma temporal, quan els necessiteu, redueix el risc que es produeixin aquests errors.
+Només alguns usuaris de confiança haurien de tenir privilegis administratius. D’aquesta manera, s’evita que altres usuaris es facin malbé amb l’ordinador i facin coses com ara desinstal·lar les aplicacions que necessiteu, instal·lar aplicacions que no vulgueu o canviar fitxers importants. Això és útil des del punt de vista de la seguretat.
+Podeu fer algunes coses, com ara instal·lar aplicacions, només si teniu privilegis administratius.
+Problemes causats per restriccions administratives
+Pot tenir alguns problemes si no teniu privilegis administratius. Algunes tasques requereixen privilegis administratius per treballar, com ara:
+connexió a xarxes o xarxes sense fils,
+visualització del contingut d&#39;una partició de disc diferent (per exemple, una partició de Windows) o
+instal·lació de noves aplicacions.
+Podeu canviar qui té privilegis administratius.
+Configura l’inici de sessió automàtic per quan engeguis l’ordinador.
+Inicieu la sessió automàticament
+Podeu canviar la configuració de manera que us inicieu la sessió automàticament al vostre compte en iniciar l’ordinador:
+Seleccioneu el compte d&#39;usuari al qual vulgueu iniciar la sessió per iniciar-lo automàticament.
+Activa el botó d’accés automàtic.
+Quan engegueu el vostre ordinador, se us farà una sessió automàticament. Si teniu activada aquesta opció, no haureu d’escriure la vostra contrasenya per iniciar la sessió al vostre compte, cosa que significa que si algú altre posa en marxa el vostre equip, podrà accedir al vostre compte i a les vostres dades personals inclosos els vostres fitxers i navegador. història.
+Si el tipus de compte és estàndard, no podeu canviar aquesta configuració. Poseu-vos en contacte amb l&#39;administrador del sistema per canviar-vos aquesta configuració.
+Manteniu el vostre compte segur si canvieu la contrasenya sovint a la configuració del compte.
+Canvia la teva contrasenya
+És convenient canviar la vostra contrasenya de tant en tant, sobretot si creieu que algú més coneix la vostra contrasenya.
+Feu clic a l’etiqueta ····· al costat de Contrasenya. Si canvieu la contrasenya per a un usuari diferent, primer haureu de desbloquejar el tauler.
+Introduïu la vostra contrasenya actual i una nova contrasenya. Introduïu de nou la vostra contrasenya al camp Verifica nova contrasenya.
+Podeu prémer la icona per generar automàticament una contrasenya aleatòria.
+Feu clic a Canvia.
+Assegureu-vos que trieu una bona contrasenya. Això ajudarà a mantenir el vostre compte d’usuari segur.
+Quan actualitzeu la vostra contrasenya d’inici de sessió, la vostra contrasenya del clau d’inici de sessió s’actualitzarà automàticament per ser la mateixa que la nova contrasenya d’inici de sessió.
+Si oblideu la vostra contrasenya, qualsevol usuari amb privilegis d’administrador pot canviar-la per vosaltres.
+Afegiu la vostra foto a les pantalles d’inici de sessió i d’usuari.
+Canvieu la foto de la pantalla d’inici de sessió
+Quan inicieu la sessió o canvieu els usuaris, veureu una llista d’usuaris amb les seves fotografies d’inici de sessió. Podeu canviar la foto a una imatge de stock o a una imatge pròpia. Fins i tot podeu fer una foto de sessió nova amb la vostra càmera web.
+Si voleu editar un usuari que no sigui tu mateix, premeu Desbloquejar a la cantonada superior dreta i escriviu la vostra contrasenya quan se us demani.
+Feu clic a la imatge al costat del vostre nom. Es mostrarà una galeria desplegable amb algunes fotos d&#39;inici de sessió. Si us agrada un d’ells, feu clic per utilitzar-lo per vosaltres mateixos.
+Si preferiu utilitzar una imatge que ja teniu a l’ordinador, feu clic a Selecciona un fitxer….
+Si teniu una càmera web, podeu fer una foto de sessió nova en aquest moment fent clic a Toma una foto ... Feu-vos una foto i mueu-la i redimensioneu el format del quadrat per tal de tallar les parts que no vulgueu. Si no us agrada la foto que heu fet, feu clic a Pren una altra foto per intentar-ho de nou o a Cancel·la per donar-se la sortida.
+Elimineu els usuaris que ja no utilitzin el vostre equip.
+Suprimeix un compte d’usuari
+Podeu afegir diversos comptes d’usuari a l’ordinador. Si algú ja no utilitza l&#39;equip, podeu suprimir el compte d&#39;aquest usuari.
+Necessiteu privilegis d’administrador per eliminar els comptes d’usuari.
+Seleccioneu l&#39;usuari que voleu suprimir i premeu el botó -, situat a sota de la llista de comptes de l&#39;esquerra, per eliminar aquest compte d&#39;usuari.
+Cada usuari té la seva pròpia carpeta d&#39;inici per als seus fitxers i configuracions. Podeu optar per conservar o suprimir la carpeta d&#39;inici de l&#39;usuari. Feu clic a Suprimeix fitxers si esteu segurs que no s&#39;utilitzaran més i que necessiteu alliberar espai de disc. Aquests fitxers se suprimeixen definitivament. No es poden recuperar. És possible que vulgueu fer una còpia de seguretat dels fitxers en un dispositiu d&#39;emmagatzematge extern abans de suprimir-los.
+Feu servir contrasenyes més llargues i complicades.
+Trieu una contrasenya segura
+Feu que les vostres contrasenyes siguin prou fàcils de recordar, però és molt difícil que les altres persones (inclosos els programes informàtics) puguin endevinar.
+L’elecció d’una bona contrasenya ajudarà a mantenir l’ordinador segur. Si la vostra contrasenya és fàcil d’endevinar, algú pot esbrinar-la i tenir accés a la informació personal.
+Les persones fins i tot podrien fer servir ordinadors per intentar sistemàticament endevinar la vostra contrasenya, de manera que fins i tot una que sigui difícil per a l’endevinar per a un humà pot ser molt fàcil que un programa d’ordinador s’esquerda. A continuació, es mostren alguns consells per triar una bona contrasenya:
+Utilitzeu una barreja de lletres majúscules i minúscules, números, símbols i espais a la contrasenya. Això fa que sigui més difícil endevinar; Hi ha més símbols entre els quals triar, és a dir, més possibles contrasenyes que algú hauria de comprovar quan intenta endevinar la seva.
+Un bon mètode per triar una contrasenya és agafar la primera lletra de cada paraula en una frase que pugueu recordar. La frase podria ser el nom d’una pel·lícula, un llibre, una cançó o un àlbum. Per exemple, &quot;Flatland: un romanç de moltes dimensions&quot; es convertiria en F: ARoMD o faromd o f: aromd.
+Feu la vostra contrasenya el màxim temps possible. Com més personatges contingui, més temps hauria de trigar una persona o ordinador a endevinar-lo.
+No utilitzeu cap paraula que aparegui en un diccionari estàndard en cap idioma. Els crackers de contrasenya ho intentaran primer. La contrasenya més comuna és &quot;contrasenya&quot;: la gent pot endevinar contrasenyes com aquesta molt ràpidament.
+No utilitzeu cap informació personal com una data, número de matrícula o nom de cap membre de la família.
+No utilitzeu cap substantiu.
+Trieu una contrasenya que es pot escriure ràpidament, per disminuir les probabilitats que algú pugui esbrinar el que heu escrit si us pareixen.
+No escriviu les contrasenyes enlloc. Es poden trobar fàcilment!
+Utilitzeu contrasenyes diferents per a coses diferents.
+Utilitzeu contrasenyes diferents per a comptes diferents.
+Si utilitzeu la mateixa contrasenya per a tots els vostres comptes, qualsevol persona que endevini podrà accedir a tots els vostres comptes immediatament.
+Tanmateix, pot ser difícil recordar moltes contrasenyes. Tot i que no és tan segur com utilitzar una contrasenya diferent per a tot, pot ser més fàcil utilitzar-la per a coses que no importen (com els llocs web) i altres per a coses importants (com el vostre compte bancari en línia i el vostre correu electrònic).
+Canvieu les contrasenyes regularment.
+És possible que no tingueu instal·lats els còdecs adequats o que el DVD sigui la regió incorrecta
+Per què no reprodueixen els DVD?
+Si inseriu un DVD al vostre ordinador i no es reprodueix, és possible que no tingueu instal·lats els còdecs DVD adequats o que el DVD sigui d’una altra regió.
+Instal·lació dels còdecs adequats per a la reproducció de DVD
+Per reproduir DVD, cal tenir instal·lats els còdecs adequats. Un codec és un programari que permet a les aplicacions llegir un format de vídeo o àudio. Si el programari del vostre reproductor de pel·lícules no troba els còdecs adequats, pot oferir-vos instal·lar-los. Si no, haureu d’instal·lar els còdecs manualment: demaneu ajuda per fer-ho, per exemple als fòrums de suport de la vostra distribució Linux.
+Els DVD també estan protegits contra còpia mitjançant un sistema anomenat CSS. Això impedeix copiar DVD, però també impedeix reproduir-los a menys que tinguis un programari addicional per gestionar la protecció de còpia. Aquest programari està disponible en diverses distribucions de Linux, però no es pot utilitzar legalment a tots els països. Podeu comprar un decodificador de DVD comercial que pugui manejar la protecció contra còpia de Fluendo. Funciona amb Linux i hauria de ser legal per utilitzar a tots els països.
+Comprovació de la regió del DVD
+Els DVD tenen un codi de regió, que indica a quina regió del món se’ls permet reproduir. Si la regió del reproductor de DVD de l’ordinador no coincideix amb la regió del DVD que intenteu reproduir, no podreu reproduir el DVD. Per exemple, si teniu un reproductor de DVD de la Regió 1, només podreu reproduir DVD de l&#39;Amèrica del Nord.
+Sovint és possible canviar la regió que utilitza el reproductor de DVD, però només es pot fer unes quantes vegades abans de bloquejar-la definitivament en una regió. Per canviar la regió de DVD del reproductor de DVD de l’ordinador, utilitzeu regionset.
+Podeu trobar més informació sobre codis de regió de DVD a la Viquipèdia.
+Comproveu que tenen instal·lats els còdecs de vídeo adequats.
+Altres persones no poden reproduir els vídeos que vaig fer
+Si heu creat un vídeo al vostre ordinador Linux i l’heu enviat a algú que utilitzi Windows o Mac OS, és possible que tingueu problemes per reproduir el vídeo.
+Per poder reproduir el vostre vídeo, la persona que l’envieu ha de tenir instal·lats els còdecs adequats. Un codec és un programari que sap agafar el vídeo i mostrar-lo a la pantalla. Hi ha molts formats de vídeo diferents i cadascun requereix un còdec diferent per reproduir-lo. Podeu comprovar quin format fa el vostre vídeo fent:
+Obriu fitxers des de la vista general de les activitats.
+Feu clic amb el botó dret al fitxer de vídeo i seleccioneu Propietats.
+Vés a la pestanya Àudio / Vídeo o Vídeo i mira quins codec figuren a la llista de vídeo i àudio (si el vídeo també té àudio).
+Pregunteu a la persona que tingui problemes amb la reproducció si té instal·lat el còdec adequat. Pot resultar útil cercar al web el nom del còdec i el nom de la seva aplicació de reproducció de vídeo. Per exemple, si el vostre vídeo utilitza el format Theora i teniu un amic que utilitza Windows Media Player per provar-lo, busqueu el &quot;reproductor multimèdia de theora Windows&quot;. Sovint podreu descarregar el còdec adequat de forma gratuïta si no està instal·lat.
+Si no trobeu el còdec adequat, proveu el reproductor multimèdia VLC. Funciona en Windows i Mac OS, així com en Linux, i admet molts formats de vídeo diferents. Si ho feu, intenteu convertir el vídeo en un format diferent. La majoria dels editors de vídeo poden fer-ho i hi ha disponibles aplicacions de convertidors de vídeo específiques. Consulteu l&#39;aplicació d&#39;instal·lador de programari per veure què hi ha disponible.
+Hi ha alguns altres problemes que poden evitar que algú reprodueixi el vostre vídeo. El vídeo podria haver estat danyat quan l’has enviat (a vegades no es copien perfectament els fitxers grans), poden tenir problemes amb la seva aplicació de reproducció de vídeo o pot ser que el vídeo no s’hagi creat correctament (hi pot haver hagut errors quan heu desat el vídeo).
+Canvia la tauleta Wacom a Orientació a mà esquerra.
+Utilitzeu la tauleta esquerrà
+Algunes tauletes tenen botons de maquinari per un costat. Es pot girar la tauleta a 180 graus per situar aquests botons per a esquerrans. Per canviar l’orientació a l’esquerra:
+Obriu la visió general d’activitats i comenceu a escriure Wacom Tablet.
+Feu clic a Wacom Tablet per obrir el tauler.
+Feu clic al botó Tauleta de la barra de la capçalera.
+Si no es detecta cap tauleta, se li demanarà que connecteu o activeu la tauleta Wacom. Feu clic a l&#39;enllaç Paràmetres del Bluetooth per connectar una tauleta sense fil.
+Activa el commutador d’orientació amb la mà esquerra.
+Canvia la tauleta entre la manera de la tauleta i la del ratolí.
+Configureu el mode de seguiment de la tauleta Wacom
+El mode de seguiment determina la forma com s&#39;assigna el punter a la pantalla.
+Al costat del mode de seguiment, seleccioneu Tablet (absoluta) o Touchpad (relativa).
+En mode absolut, cada punt de la tauleta assigna un punt de la pantalla. L’angle superior esquerre de la pantalla, per exemple, sempre correspon al mateix punt de la tauleta.
+En mode relatiu, si aixequeu el punter de la tauleta i el situeu en una posició diferent, el cursor de la pantalla no es mou. Aquesta és la forma en què funciona un ratolí.
+Feu un mapa de la tauleta Wacom a un monitor específic.
+Trieu un monitor
+Feu clic a Mapa per supervisar ...
+Comproveu el mapa a un monitor únic.
+Al costat de Sortida, seleccioneu el monitor que vulgueu rebre de la tauleta gràfica.
+Només seran seleccionables els monitors configurats.
+Canvieu la relació d&#39;aspecte Keep (caixa de lletres) per combinar l&#39;àrea de dibuix de la tauleta amb les proporcions del monitor. Aquest paràmetre, també anomenat proporcions de força, marca &quot;caixes de lletres&quot; l&#39;àrea de dibuix d&#39;una tauleta per correspondre més directament a una pantalla. Per exemple, es podria mapejar una tauleta de 4∶3 de manera que l’àrea de dibuix correspondria a una pantalla de pantalla panoràmica.
+Feu clic a Tanca
+Definiu les funcions del botó i la sensació de pressió de l&#39;estil Wacom.
+Configura l&#39;estil
+Feu clic a Wacom Tablet a la barra lateral per obrir el tauler.
+Feu clic al botó Stylus de la barra de capçalera.
+Si no es detecta cap estil, se us demanarà que poseu el vostre estil a la proximitat de la tauleta per configurar-lo.
+El tauler conté detalls i paràmetres específics per al vostre estil, amb el nom del dispositiu (la classe de l &#39;estil) i un diagrama a l&#39;esquerra. Aquests paràmetres es poden ajustar:
+Sensor de pressió de la goma d&#39;esborrar: utilitzeu el control lliscant per ajustar la &quot;sensació&quot; (com es tradueix la pressió física a valors digitals) entre Soft i Firm.
+Configuració de la roda de botó / desplaçament (canvien per reflectir l&#39;estil). Feu clic al menú que hi ha al costat de cada etiqueta per seleccionar una d&#39;aquestes funcions: Sense acció, feu clic al botó esquerre del ratolí, feu clic al botó mig del ratolí, feu clic al botó dret del ratolí, desplaceu-vos cap amunt, desplaçar-se cap avall, desplaçar-se cap a l&#39;esquerra, desplaçar-se cap a la dreta, enrere o cap endavant.
+Sensació de pressió de consell: utilitzeu el control lliscant per ajustar el &quot;ritme&quot; entre suau i ferm.
+Si teniu més d&#39;un estil, feu servir el cercador que hi ha al costat del nom del dispositiu de l&#39;estil per triar quin estil cal configurar.
+Feu un mapa d’un monitor, configureu l’estil, utilitzeu la tauleta a l’esquerra ...
+Taula de gràfics de Wacom

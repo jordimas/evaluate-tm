@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 import urllib.request
 import json
 import time
-from googletrans import Translator
+
 
 def _translate_apertium_en_ca(text):
 
@@ -79,11 +79,25 @@ def translate_text_yandex(text):
         all_text += text
     return all_text.rstrip()
 
+def translate_text_google(text):
+
+    _key = 'XXX'
+    SERVER = "https://www.googleapis.com/language/translate/v2"
+    language_pair = 'en-ca'
+    url = "{0}/?key={1}&source=en&target=ca".format(SERVER, _key)
+    url += "&q=" + urllib.parse.quote_plus(text.encode('utf-8'))
+    response = urllib.request.urlopen(url)
+    r = response.read().decode("utf-8")
+    data = json.loads(r)
+    translated = data['data']['translations'][0]
+    translated = translated['translatedText']
+    return translated.rstrip()
+
 
 def apertium():
-
-    txt_en_file = 'input/gnome-user-manual-en.txt'
-    txt_ca_file = 'translated/gnome-user-manual-apertium-ca.txt'
+    print("Translating Apertium")
+    txt_en_file = 'input/globalvoices-en.txt'
+    txt_ca_file = 'translated/globalvoices-apertium-ca.txt'
 
     strings = 0
     with open(txt_en_file, 'r') as tf_en, open(txt_ca_file, 'w') as tf_ca:
@@ -94,12 +108,17 @@ def apertium():
             tf_ca.write("{0}\n".format(translated))
             strings = strings + 1
 
+        if strings % 100:
+            print(strings)
+            timer.sleep(60*5*1000)
+
     print("Translated {0} strings".format(strings))
 
 def yandex():
 
-    txt_en_file = 'input/gnome-user-manual-en.txt'
-    txt_ca_file = 'translated/gnome-user-manual-yandex-ca.txt'
+    print("Translating Yandex")
+    txt_en_file = 'input/globalvoices-en.txt'
+    txt_ca_file = 'translated/globalvoices-yandex-ca.txt'
 
     strings = 0
     with open(txt_en_file, 'r') as tf_en, open(txt_ca_file, 'w') as tf_ca:
@@ -120,11 +139,11 @@ def yandex():
 
 def google():
 
-    txt_en_file = 'input/gnome-user-manual-en.txt'
-    txt_ca_file = 'translated/gnome-user-manual-google-ca.txt'
+    print("Translating Google")
+    txt_en_file = 'input/globalvoices-en.txt'
+    txt_ca_file = 'translated/globalvoices-google-ca.txt'
 
     strings = 0
-    translator = Translator()
     with open(txt_en_file, 'r') as tf_en, open(txt_ca_file, 'w') as tf_ca:
         en_strings = tf_en.readlines()
     
@@ -132,16 +151,13 @@ def google():
         for string in en_strings:
             cnt = cnt + 1
     
-#            if cnt > 10:
+#            if cnt > 30:
 #                break
 
             try:
-                time.sleep(1)
-                translated = translator.translate(string, src='en', dest='ca')
-                text = translated.text
-                tf_ca.write("{0}\n".format(text))
+                translated = translate_text_google(string)
+                tf_ca.write("{0}\n".format(translated))
                 strings = strings + 1
-
 
             except Exception as e:
                 print(e)
@@ -150,7 +166,6 @@ def google():
                 translated = 'Error'
                 tf_ca.write("{0}\n".format(translated))
                 strings = strings + 1
-
 
     print("Translated {0} strings".format(strings))
 

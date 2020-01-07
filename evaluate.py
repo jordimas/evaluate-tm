@@ -110,7 +110,7 @@ def _evalutate_gnome_user():
     show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-google-ca.txt')
 
     print("OpenNMT")
-    show_bleu('input/gnome-user-manual-ca.txt', '/home/jordi/sc/OpenNMT/nmt-softcatala/ApplyToPoFile/output.txt')
+    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-opennmt-ca.txt')
 
 def _evalutate_global_voices():
     print("--- global voices ---")
@@ -121,7 +121,7 @@ def _evalutate_global_voices():
     show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-yandex-ca.txt')
 
     print("OpenNMT")
-    show_bleu('input/gnome-user-manual-ca.txt', 'translated/gnome-user-manual-opennmt-ca.txt')
+    show_bleu('input/globalvoices-ca.txt', 'translated/globalvoices-opennmt-ca.txt')
 
     
 def main():
