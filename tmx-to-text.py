@@ -78,8 +78,8 @@ class ConvertTmx():
 
             entries = entries + 1
 
-            if entries >= 2000:
-                break
+            #if entries >= 2000:
+            #    break
 
         tf_en.close()
         tf_ca.close()
