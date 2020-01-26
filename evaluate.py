@@ -84,6 +84,9 @@ def main():
             ['Global Voices', 'input/globalvoices-ca.txt','translated/globalvoices-apertium-ca.txt', 
                  'translated/globalvoices-yandex-ca.txt','translated/globalvoices-google-ca.txt', \
                  'translated/globalvoices-opennmt-ca.txt'],\
+            ['Tatoeba', 'input/tatoeba.en-ca.ca','translated/tatoeba-apertium-ca.txt',
+                 'translated/tatoeba-yandex-ca.txt','translated/tatoeba-google-ca.txt', \
+                 'translated/globalvoices-opennmt-ca.txt'],\
         ]
 
     for ds in datasets:
