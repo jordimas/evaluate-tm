@@ -167,18 +167,19 @@ def main():
         translated = 0
         errors = 0
         for src in en_strings:
+            src = src.replace('\n', '')
 
             try:
-                tgt = _translate_sentence_with_tags(stub, model_name, src)
+                tgt = _translate_sentence(stub, model_name, src)
             except Exception as e:
                 logging.error(str(e))
                 logging.error("Processing: {0}".format(src))
                 errors = errors + 1
-                tf_ca.write("{0}".format("Error"))
+                tf_ca.write("{0}\n".format("Error"))
                 continue
 
             translated = translated + 1
-            tf_ca.write("{0}".format(tgt))
+            tf_ca.write("{0}\n".format(tgt))
             logging.debug('Source: ' + str(src))
             logging.debug('Target: ' + str(tgt))
 
