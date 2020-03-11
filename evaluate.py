@@ -86,7 +86,7 @@ def main():
                  'translated/globalvoices-opennmt-ca.txt'],\
             ['Tatoeba', 'input/tatoeba.en-ca.ca','translated/tatoeba-apertium-ca.txt',
                  'translated/tatoeba-yandex-ca.txt','translated/tatoeba-google-ca.txt', \
-                 'translated/globalvoices-opennmt-ca.txt'],\
+                 'translated/tatoeba-opennmt-ca.txt'],\
         ]
 
     for ds in datasets:
