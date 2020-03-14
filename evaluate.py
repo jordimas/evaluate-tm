@@ -31,8 +31,10 @@ def show_bleu(reference_file, hypotesis_file):
 #        lines_ref = lines_ref[0:500]
 #        lines_hyp = lines_hyp[0:500]
 
-        if len(lines_ref) != len(lines_hyp):
-            print("Different number of lines in files")
+        len_ref = len(lines_ref)
+        len_hyp = len(lines_hyp)
+        if len_ref != len_hyp:
+            print("Different number of lines in files: {0} (reference), {1} (hypotesis)".format(len_ref, len_hyp))
             return
 
         # Str -> to tokens
