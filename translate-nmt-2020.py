@@ -19,27 +19,9 @@
 # Boston, MA 02111-1307, USA.
 
 from __future__ import print_function
-import tensorflow as tf
-from grpc.beta import implementations
-import polib
-from shutil import copyfile
-import re
 import logging
 import os
 from optparse import OptionParser
-
-
-from tensorflow_serving.apis import predict_pb2
-from tensorflow_serving.apis import prediction_service_pb2_grpc
-
-import polib
-from shutil import copyfile
-import re
-import logging
-import os
-from optparse import OptionParser
-import pyonmttok
-import grpc
 from opennmt import OpenNMT
 
 
@@ -74,14 +56,14 @@ def read_parameters():
         '--po-file',
         type='string',
         action='store',
-        dest='po_file',
+        dest='txt_file',
         help='TXT File to translate'
     )
 
     (options, args) = parser.parse_args()
-    if options.po_file is None:  # if filename is not given
+    if options.txt_file is None:  # if filename is not given
         parser.error('TXT file not given')
-    return options.model_name, options.po_file
+    return options.model_name, options.txt_file
 
 def main():
 
