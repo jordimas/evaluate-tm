@@ -82,12 +82,9 @@ def show_nist(reference_file, hypotesis_file):
 def main():
     datasets = \
         [\
-            ['GNOME Manual', 'input/gnome-user-manual-ca.txt','translated/gnome-user-manual-apertium-ca.txt',\
-                 'translated/gnome-user-manual-yandex-ca.txt', 'translated/gnome-user-manual-google-ca.txt',\
-                 'translated/gnome-user-manual-opennmt-ca.txt' ],\
-            ['Global Voices', 'input/globalvoices-ca.txt','translated/globalvoices-apertium-ca.txt', 
-                 'translated/globalvoices-yandex-ca.txt','translated/globalvoices-google-ca.txt', \
-                 'translated/globalvoices-opennmt-ca.txt'],\
+            ['Sleepyhollow', 'input/sleepyhollow.en-ca.ca','translated/sleepyhollow-apertium-ca.txt',\
+                 'translated/sleepyhollow-yandex-ca.txt', 'translated/sleepyhollow-google-ca.txt',\
+                 'translated/sleepyhollow-opennmt-ca.txt' ],\
             ['Tatoeba', 'input/tatoeba.en-ca.ca','translated/tatoeba-apertium-ca.txt',
                  'translated/tatoeba-yandex-ca.txt','translated/tatoeba-google-ca.txt', \
                  'translated/tatoeba-opennmt-ca.txt'],\
