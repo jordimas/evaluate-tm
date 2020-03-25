@@ -49,7 +49,7 @@ def _translate_apertium_en_ca2(english):
         text_file.write(english)
         text_file.close()
 
-    cmd = "apertium en-ca -u input.txt output.txt"
+    cmd = "apertium eng-cat -u input.txt output.txt"
     os.system(cmd)
 
     with open ("output.txt", "r") as myfile:
@@ -110,7 +110,7 @@ def apertium():
 
         if strings % 100:
             print(strings)
-            timer.sleep(60*5*1000)
+            time.sleep(60*5*1000)
 
     print("Translated {0} strings".format(strings))
 
